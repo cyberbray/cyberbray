@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cyberbray
-- 👀 I’m interested in game development, film, football and sailing
-- 🌱 I’m currently learning game development
-- 💞️ I’m looking to collaborate on game development, coding
+- 👀 I’m interested in film, writing, coding, life
+- 🌱 I’m currently on hiatus
+- 💞️ I’m looking to collaborate on something that sparks me up
 - 📫 How to reach me Twitter: @cyberbray
 
 <!---
